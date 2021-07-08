@@ -1,0 +1,18 @@
+{
+  "name": "publish-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "私有源测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:Wangoutsmart/publish-test.git",
+  "keywords": [],
+  "author": "wangzhisheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wangoutsmart/publish-test/issues"
+  },
+  "homepage": "https://github.com/Wangoutsmart/publish-test#readme"
+}
