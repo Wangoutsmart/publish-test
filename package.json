@@ -1,13 +1,16 @@
 {
-  "name": "publish_test",
-  "private": false,
-  "version": "1.0.1",
+  "name": "publish_test_wang",
+  "private": true,
+  "version": "1.0.3",
   "description": "私有源测试",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git@github.com:Wangoutsmart/publish-test.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Wangoutsmart/publish-test.git"
+  },
   "keywords": [],
   "author": "wangzhisheng",
   "license": "ISC",
